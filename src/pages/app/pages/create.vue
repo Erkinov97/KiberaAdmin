@@ -26,12 +26,14 @@ const url = ref('')
 <template>
   <div class="page-content-inner">
     <div>
-      <h1 class="mb-4">Создать страницу</h1>
-      <VButtons>
-        <VButton>Ўзбекча</VButton>
-        <VButton>Русский</VButton>
-        <VButton>English</VButton>
-      </VButtons>
+      <div class="is-flex is-justify-content-center">
+        <h1 class="mb-4">Создать страницу</h1>
+        <VButtons>
+          <VButton>Ўзбекча</VButton>
+          <VButton>Русский</VButton>
+          <VButton>English</VButton>
+        </VButtons>
+      </div>
       <div>
         <p></p>
         <p>
