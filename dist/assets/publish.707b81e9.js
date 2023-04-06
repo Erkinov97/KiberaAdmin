@@ -1,0 +1,1 @@
+import{B as e,O as s,o as a,d as i}from"./index.a5116b01.js";import{u as t}from"./viewWrapper.3c54c69e.js";const r={class:"page-content-inner"},l=e({__name:"publish",setup:e=>(t().setPageTitle("Kibera Publish"),s({title:"Kibera - Publish"}),(e,s)=>(a(),i("div",r,"Publish")))});export{l as default};
